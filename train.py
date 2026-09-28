@@ -21,3 +21,4 @@ model.fit(X, y)
 prediction = model.predict([[1000]])
 
 print("Predicted price:", prediction[0])
+print("hello")
